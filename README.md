@@ -1,7 +1,7 @@
-# Weather APP
+# Weather APP :sun_behind_rain_cloud:
 
--It uses **OpenWeatherMap API** for real-time weather information :weather: using **ReactJS** and **Bootstrap**.
+- It uses **OpenWeatherMap API** for real-time weather information :computer: using **ReactJS** and **Bootstrap**.
 
 ## Installation
 
--To run or clone use `yarn install`
+- After download or clone run `yarn install` to install all the dependencies.
