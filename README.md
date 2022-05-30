@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Weather APP :sun_behind_rain_cloud:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- It uses **OpenWeatherMap API** for real-time weather information :computer: using **ReactJS** and **Bootstrap**.
 
-## Available Scripts
+## Installation
 
 In the project directory, you can run:
 
@@ -72,3 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Weather_App
 
 Weather app using ReactJS and Bootstrap
+
+- After download or clone run `yarn install` to install all the dependencies.
