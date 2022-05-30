@@ -35,6 +35,10 @@ function App() {
     getWetherDetails(inputCity);
   };
 
+  useEffect(() => {
+    getWetherDetails("delhi");
+  }, []);
+
   return (
     <div className="col-md-12">
       <div className="wetherBg">
@@ -63,6 +67,7 @@ function App() {
             <img
               className="weathorIcon"
               src="https://i.pinimg.com/originals/77/0b/80/770b805d5c99c7931366c2e84e88f251.png"
+              alt=""
             />
 
             <h5 className="weathorCity">{data?.name}</h5>
