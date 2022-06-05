@@ -4,4 +4,4 @@
 
 ## Installation
 
-- After download or clone run `yarn install` to install all the dependencies.
+- After download or clone run `npm install` to install all the dependencies.
